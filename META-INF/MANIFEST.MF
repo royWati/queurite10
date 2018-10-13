@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: com.queuerite1.demo.DemoApplication
+Main-Class: com.queuerite1.demo.DemoApplication
+
